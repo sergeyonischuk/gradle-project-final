@@ -4,5 +4,5 @@ target/
 *.log
 
 *.class
-/build
+build/
 *.bat
