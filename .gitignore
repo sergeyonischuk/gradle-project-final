@@ -2,5 +2,7 @@
 *.iml
 target/
 *.log
-*.gradle
+
 *.class
+/build
+*.bat
